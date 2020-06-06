@@ -31,5 +31,6 @@ int test::i = nm::nmspace::a;
 
 int main()
 {
+    nm::nmspace in;
     return 0;
 }
